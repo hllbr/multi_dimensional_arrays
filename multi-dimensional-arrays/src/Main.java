@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     //Çok boyutlu arrayler
     public static void main(String[] args) {
+        //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
        /* int [][] array =new int[2][2];//2 satır 2 sütun sahibi bir array
         array[0][1] = 5;
         System.out.println(array[0][1]);
